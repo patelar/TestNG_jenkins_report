@@ -59,7 +59,7 @@ public class TestTestClass {
 	
 	@Test
 	public void seventhTest(){
-		System.out.println("This is seventh test");
+		System.out.println("This is seventh test ");
 	}
 	
 	@AfterMethod
