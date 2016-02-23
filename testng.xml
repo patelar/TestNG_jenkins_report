@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Simple Logger Suite1">
+  <listeners>
+    <listener class-name="tpkg.CustomListener" />
+  </listeners>
+
+  <test name="Simple Logger test">
+    <classes>
+      <class name="tpkg.TestTestClass" />
+    </classes>
+  </test>
+  
+  <test name="Simple Logger test1">
+    <classes>
+      <class name="tpkg.TestTestClass" />
+    </classes>
+  </test>
+  
+  <test name="Simple Logger test2">
+    <classes>
+      <class name="tpkg.TestTestClass" />
+    </classes>
+  </test>
+  
+  <test name="Simple Logger test3">
+    <classes>
+      <class name="tpkg.TestTestClass" />
+    </classes>
+  </test>
+  
+  <test name="Simple Logger test4">
+    <classes>
+      <class name="tpkg.TestTestClass" />
+    </classes>
+  </test>
+</suite>
