@@ -25,7 +25,7 @@ public class TestTestClass {
 	
 	@BeforeTest
 	public void beforeTest(){
-		System.out.println("This is before test ");
+		System.out.println("This is before test");
 		reports = new ExtentReports("./test-output/customReports.html");
 		
 	}
